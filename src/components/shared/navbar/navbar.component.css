@@ -1,0 +1,9 @@
+
+.badge-position {
+    font-size: 60% !important;
+    border-radius: .50rem;
+
+}
+span.badge-position.badge.badge-danger{
+  margin-left: -10px;
+}
